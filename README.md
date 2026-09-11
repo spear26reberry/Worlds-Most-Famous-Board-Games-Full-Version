@@ -239,3 +239,6 @@ This repository serves as the official landing page for World's Most Famous Boar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of World's Most Famous Board Games today!**
+
+---
+**Last updated:** 2026-09-11 12:38:07 UTC
